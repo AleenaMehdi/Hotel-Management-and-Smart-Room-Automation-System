@@ -1,8 +1,8 @@
-#include "SmartRoomControl.h"
-#include "RoomServiceBilling.h"
-#include "RoomInventory.h"
-#include "FrontDesk.h"
-#include "HousekeepingTracker.h"
+#include "../include/SmartRoomControl.h"
+#include "../include/RoomServiceBilling.h"
+#include "../include/RoomInventory.h"
+#include "../include/FrontDesk.h"
+#include "../include/HousekeepingTracker.h"
 #include <iostream>
 
 int main() {
