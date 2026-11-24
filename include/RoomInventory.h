@@ -1,3 +1,4 @@
+// Module: Room Inventory & Reservation - Saman Imran
 #ifndef ROOM_INVENTORY_H
 #define ROOM_INVENTORY_H
 
