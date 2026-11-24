@@ -32,7 +32,7 @@ void FoodOrder::postCharge(GuestFolio& folio) const {
 
 void FoodOrder::display() const {
     std::cout << "Food order: " << foodName << " | Room: " << roomNumber
-              << " | Charge: Rs. " << fixed << setprecision(2) << amount << '\n';
+              << " | Charge: Rs. " << std::fixed << std::setprecision(2) << amount << '\n';
 }
 
 LaundryOrder::LaundryOrder() : serviceName("No laundry order"), roomNumber(0), amount(0.0) {}
