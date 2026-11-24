@@ -1,3 +1,4 @@
+// Module: Smart Room Control Simulator - Aleena Mehdi
 #ifndef SMART_ROOM_CONTROL_H
 #define SMART_ROOM_CONTROL_H
 
